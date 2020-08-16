@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SdxDecoder", "SdxDecoder\SdxDecoder.csproj", "{151A8122-A435-4FBB-A2A5-489D6E227750}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SdxProcessor", "SdxProcessor\SdxProcessor.csproj", "{B9BB25CB-AA4F-4FE4-A215-C7326B6AB961}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{151A8122-A435-4FBB-A2A5-489D6E227750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{151A8122-A435-4FBB-A2A5-489D6E227750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{151A8122-A435-4FBB-A2A5-489D6E227750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{151A8122-A435-4FBB-A2A5-489D6E227750}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9BB25CB-AA4F-4FE4-A215-C7326B6AB961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9BB25CB-AA4F-4FE4-A215-C7326B6AB961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9BB25CB-AA4F-4FE4-A215-C7326B6AB961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9BB25CB-AA4F-4FE4-A215-C7326B6AB961}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33C70B47-015F-41E9-ABA0-19B3993081E3}
+	EndGlobalSection
+EndGlobal

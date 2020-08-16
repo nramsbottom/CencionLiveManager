@@ -1,0 +1,6 @@
+/ConsoleEventLogger.cs////
+/DatabaseEventLogger.cs////
+/FileEventLogger.cs////
+/ISdxLogger.cs////
+/PlainEnglishEventLogger.cs////
+/SmdrFileLogger.cs////
